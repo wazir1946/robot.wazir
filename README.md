@@ -1,0 +1,2 @@
+# robot.wazir
+security 
